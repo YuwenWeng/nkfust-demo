@@ -1,7 +1,2 @@
 # nkfust-demo
-echo "# nkfust-demo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/YuwenWeng/nkfust-demo.git
-git push -u origin master
+![image](https://www.google.com.tw/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiGzf2Wkp_WAhVFn5QKHXMwAxkQjRwIBw&url=https%3A%2F%2Fsoshi.manuth.life%2Fsoshi%2Fyoona%2Fpromotions%2Finnisfree-20th-anniversary-photobook&psig=AFQjCNFbBAndy6J2af_tJ9abH5n353crOA&ust=1505288337967642)
